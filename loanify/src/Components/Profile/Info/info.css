@@ -1,0 +1,17 @@
+.client-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 990px;
+    background: #F0F4FC;
+    margin: 20px 0px;
+    padding: 10px 0px;
+    /* overflow: scroll; */
+    /* width: 3%; */ 
+}
+
+.client-info div{
+    width: 140px;
+    /* width: 15%; */
+    font-size: 14px;
+}

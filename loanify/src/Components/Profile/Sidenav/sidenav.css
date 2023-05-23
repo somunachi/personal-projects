@@ -1,0 +1,12 @@
+.side-nav{
+    border: 1px solid #04297F;
+    width: 228px;
+    height: 918px;
+    background-color: #04297F;
+    display: flex;
+    justify-content: center;
+}
+
+.side-links{
+    padding-top: 20px;
+}

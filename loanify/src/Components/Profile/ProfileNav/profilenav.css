@@ -1,0 +1,22 @@
+.profile-nav{
+    display: flex;
+    align-items: center;
+    background-color: #F0F4FC;
+    width: 1040px;
+    height: 44px;
+    padding-left: 10px;
+    /* margin-left: 20px; */
+}
+
+a{
+    text-decoration: none;
+    color: #010E2A;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.arrow-foward{
+    height: 15px;
+    width: 10px;
+    padding: 5px;
+}
